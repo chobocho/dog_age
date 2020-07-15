@@ -25,7 +25,7 @@ def printDogAgeTable(age, xLabelX, yLabel):
 
     i = 0
     while i < len(dog_age):
-        print("{:<10}".format(dog_age[i]), "{:<10}".format(human_age[i]))
+        print("{:<10}".format(dog_age[i]), "{:<10}".format(int(human_age[i])))
         i+=1
 
 def main():
