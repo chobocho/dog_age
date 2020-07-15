@@ -2,7 +2,7 @@
 
 ## How old is my dog in human years?
 
-![screen shot](https://github.com/chobocho/dog_age/blob/master/doc/screenshot.png)
+![screen shot](https://github.com/chobocho/dog_age/blob/master/doc/dog_age.png)
 
 ```
 Dog age    Human age 
